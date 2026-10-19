@@ -9,6 +9,11 @@ The program uses a pretrained YOLOv8 model to detect vehicles, ByteTrack to trac
 
 ## Demo
 
+
+https://github.com/user-attachments/assets/e7eef456-fa7a-470f-aaf8-dfd6e5c085b6
+
+
+
 RoadWatch processes traffic footage and produces an annotated video showing:
 
 - Bounding boxes around detected vehicles.
@@ -16,7 +21,6 @@ RoadWatch processes traffic footage and produces an annotated video showing:
 - A green virtual counting line.
 - Live upward and downward vehicle counts.
 
-**Demo video:** [Watch RoadWatch in action](roadwatch-traffic-monitor/outputs/roadwatch_demo.mp4)
 
 ## Features
 
