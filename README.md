@@ -16,7 +16,7 @@ RoadWatch processes traffic footage and produces an annotated video showing:
 - A green virtual counting line.
 - Live upward and downward vehicle counts.
 
-**Demo video:** [Watch RoadWatch in action](roadwatch-traffic-monitor/outputs/roadwatch_result.mp4)
+**Demo video:** [Watch RoadWatch in action](roadwatch-traffic-monitor/outputs/roadwatch_demo.mp4)
 
 ## Features
 
